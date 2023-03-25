@@ -2,7 +2,7 @@ export default [{
         id: 1,
         make: 'Opel',
         model: 'Corsa',
-        img: "src/assets/001.jpg",
+        img: "./public/001.jpg",
         price: '4.499',
         year: "2014",
         distance: "111",
