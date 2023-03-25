@@ -18,7 +18,7 @@ export default function Cars() {
                         ps={project.ps}
                         kmstand={project.kmstand}
                         notes={project.notes}
-                         
+                        id={project.id}
                 />))}
             </div>
         </div>

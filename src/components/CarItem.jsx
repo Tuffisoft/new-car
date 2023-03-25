@@ -1,6 +1,7 @@
-export default function CarItem({ make, model, price, link, img, year, distance, ps, kmstand, notes }) {
+export default function CarItem({ make, model, price, link, img, year, distance, ps, kmstand, notes, id}) {
     return (
         <div className="">
+            <p>{id}</p>
             <a href={link} target="_blank">
             <div className="p-4 border-4 rounded-3xl font-karla text-white shadow-xl bg-slate-400">
                 <img src={img} className="rounded-md w-48 h-32 flex "></img>
