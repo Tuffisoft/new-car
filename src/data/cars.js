@@ -21,7 +21,7 @@ export default [{
         distance: "241",
         ps: "60",
         kmstand: "166.450",
-        notes: "klima",
+        notes: "",
         link: "https://www.ebay-kleinanzeigen.de/s-anzeige/volkswagen-up-cheer-up-klima-shz-/2384718027-216-3582?utm_source=sharesheet&utm_medium=social&utm_campaign=socialbuttons&utm_content=app_androide"
     },
     {
@@ -153,5 +153,70 @@ export default [{
         kmstand: "90.000",
         notes: "TÜV 05/2024",
         link: "https://www.autoscout24.de/angebote/opel-corsa-d-1-2i-selection-gepflegter-zustand-1-hand-benzin-schwarz-ea2b9b32-f88a-4038-851e-ac041536da30?utm_source=web-native-share&utm_campaign=share"
+    },
+    {
+        id: 13,
+        make: 'Opel',
+        model: 'Corsa',
+        img: "https://i.postimg.cc/SKhrszzF/013.jpg",
+        price: '990',
+        year: "2009",
+        distance: "299",
+        ps: "60",
+        kmstand: "92.000",
+        notes: "Export Preis runter gesunken von 1.490",
+        link: "https://www.autoscout24.de/angebote/opel-corsa-d-selection-110-jahre-export-fahrzeug-benzin-schwarz-800245f8-f9c4-4441-a062-716a0ee45b44?utm_source=android-share"
+    },
+    {
+        id: 14,
+        make: 'Volkswagen',
+        model: 'Lupo',
+        img: "https://i.postimg.cc/6qzZ9YGT/014.jpg",
+        price: '3.990',
+        year: "2004",
+        distance: "119",
+        ps: "60",
+        kmstand: "119.000",
+        notes: "Fast alles Neu",
+        link: "https://suchen.mobile.de/auto-inserat/volkswagen-lupo-basis-2-hand-klima-alu-elze/361195220.html?refId=f10e0364-1dc8-4198-89f9-824f44d2d423&action=vipReco"
+    },
+    {
+        id: 15,
+        make: 'Nissan',
+        model: 'Micra',
+        img: "https://i.postimg.cc/qvG2QB72/015.jpg",
+        price: '3.650',
+        year: "2009",
+        distance: "139",
+        ps: "65",
+        kmstand: "93.000",
+        notes: "",
+        link: "https://www.autoscout24.de/angebote/opel-corsa-d-1-2i-selection-gepflegter-zustand-1-hand-benzin-schwarz-ea2b9b32-f88a-4038-851e-ac041536da30?utm_source=web-native-share&utm_campaign=share"
+    },
+    {
+        id: 16,
+        make: 'Mitsubishi',
+        model: 'Colt',
+        img: "https://i.postimg.cc/qv01kMD5/016.jpg",
+        price: 3499,
+        year: 2007,
+        distance: 21,
+        ps: 68,
+        kmstand: 90000,
+        notes: "",
+        link: "https://www.autoscout24.de/angebote/mitsubishi-colt-metallic-blau-sonderlack-klima-dekra-geprueft-benzin-blau-ffb0326e-dd56-4cc3-aca0-4cb923335b88?sort=standard&desc=0&lastSeenGuidPresent=true&cldtidx=2&position=2&search_id=1nn6ahnzi3x&source_otp=t10&source=listpage_search-results&order_bucket=0"
+    },
+    {
+        id: 17,
+        make: 'Audi',
+        model: 'A3',
+        img: "https://i.postimg.cc/9XNQyDHv/017.jpg",
+        price: '3.899',
+        year: "2008",
+        distance: "40",
+        ps: "160",
+        kmstand: "129.000",
+        notes: "",
+        link: "https://www.autoscout24.de/angebote/-0bd75044-4d35-47a2-8660-93a617b417a3?utm_campaign=de_as24_ugom_web_traffic_basic&utm_medium=co&utm_source=autouncle.de&utm_term=basic"
     },
 ]
