@@ -13,7 +13,8 @@ export default function CarItem({ make, model, price, link, img, year, distance,
                 <p>{kmstand} km</p>
                 <p>{notes}</p>    
                 </div>
-                </a>
+            </a>
+            
         </div>
     )
 }
