@@ -24,7 +24,7 @@ export default [{
         notes: "",
         link: "https://www.ebay-kleinanzeigen.de/s-anzeige/volkswagen-up-cheer-up-klima-shz-/2384718027-216-3582?utm_source=sharesheet&utm_medium=social&utm_campaign=socialbuttons&utm_content=app_androide"
     },
-    /*{
+    {
         id: 3,
         make: 'Opel',
         model: 'Corsa',
@@ -36,7 +36,7 @@ export default [{
         kmstand: "141.700",
         notes: "Rechtslenker",
         link: "https://www.autoscout24.de/angebote/opel-corsa-1-4-turbo-limited-edition-rechtslenker-benzin-grau-c50bab8a-5002-4791-8f99-2532ebcfcb23?utm_source=web-native-share&utm_campaign=share"
-    },*/
+    },
     {
         id: 4,
         make: 'Volkswagen',
@@ -63,7 +63,7 @@ export default [{
         notes: "Rocket",
         link: "https://www.autoscout24.de/angebote/volkswagen-polo-1-4-gt-rocket-benzin-weiss-7a4990ce-deed-4877-a36a-fd425f458159?utm_source=android-share"
     },
-    /*{
+    {
         id: 6,
         make: 'Volkswagen',
         model: 'Polo',
@@ -75,7 +75,7 @@ export default [{
         kmstand: "60.000",
         notes: "Automatik",
         link: "https://www.autoscout24.de/angebote/volkswagen-polo-iv-erst-60-000-km-automatik-benzin-silber-f620e4ca-8e86-4537-8c76-21ae6c071986?utm_source=android-share"
-    },*/
+    },
     {
         id: 7,
         make: 'Volkswagen',
@@ -102,7 +102,7 @@ export default [{
         notes: "Schwarze stickers",
         link: "https://www.autoscout24.de/angebote/volkswagen-fox-basis-benzin-rot-e2cbfc91-051e-4be9-8462-74cfb63fbbaa?utm_source=android-share"
     },
-    /*{
+    {
         id: 9,
         make: 'Volkswagen',
         model: 'Polo',
@@ -127,7 +127,7 @@ export default [{
         kmstand: "119.000",
         notes: "*Beschädigt*",
         link: "https://www.autoscout24.de/angebote/volkswagen-polo-iv-tour-klima-pdc-benzin-schwarz-b59e59d9-41c9-45e7-8ed9-7391d48bbd0d?utm_source=android-share"
-    },*/
+    },
     {
         id: 11,
         make: 'Volkswagen',
@@ -154,7 +154,7 @@ export default [{
         notes: "TÜV 05/2024",
         link: "https://www.autoscout24.de/angebote/opel-corsa-d-1-2i-selection-gepflegter-zustand-1-hand-benzin-schwarz-ea2b9b32-f88a-4038-851e-ac041536da30?utm_source=web-native-share&utm_campaign=share"
     },
-    /*{
+    {
         id: 13,
         make: 'Opel',
         model: 'Corsa',
@@ -166,7 +166,7 @@ export default [{
         kmstand: "92.000",
         notes: "Export Preis runter gesunken von 1.490",
         link: "https://www.autoscout24.de/angebote/opel-corsa-d-selection-110-jahre-export-fahrzeug-benzin-schwarz-800245f8-f9c4-4441-a062-716a0ee45b44?utm_source=android-share"
-    },*/
+    },
     {
         id: 14,
         make: 'Volkswagen',
@@ -206,7 +206,7 @@ export default [{
         notes: "",
         link: "https://www.autoscout24.de/angebote/mitsubishi-colt-metallic-blau-sonderlack-klima-dekra-geprueft-benzin-blau-ffb0326e-dd56-4cc3-aca0-4cb923335b88?sort=standard&desc=0&lastSeenGuidPresent=true&cldtidx=2&position=2&search_id=1nn6ahnzi3x&source_otp=t10&source=listpage_search-results&order_bucket=0"
     },
-    /*{
+    {
         id: 17,
         make: 'Audi',
         model: 'A3',
@@ -218,7 +218,7 @@ export default [{
         kmstand: "129.000",
         notes: "",
         link: "https://www.autoscout24.de/angebote/-0bd75044-4d35-47a2-8660-93a617b417a3?utm_campaign=de_as24_ugom_web_traffic_basic&utm_medium=co&utm_source=autouncle.de&utm_term=basic"
-    },*/
+    },
     {
         id: 18,
         make: 'Citreon',
@@ -375,7 +375,7 @@ export default [{
         notes: "",
         link: "https://www.autoscout24.de/angebote/-9f3a61fe-3445-4341-aa2b-f049d333f04d?utm_campaign=de_as24_ugom_web_traffic_basic&utm_medium=co&utm_source=autouncle.de&utm_term=basic"
     },
-    /*{
+    {
         id: 30,
         make: '',
         model: '',
@@ -400,5 +400,5 @@ export default [{
         kmstand: "129.000",
         notes: "",
         link: ""
-    },*/
+    },
 ]
